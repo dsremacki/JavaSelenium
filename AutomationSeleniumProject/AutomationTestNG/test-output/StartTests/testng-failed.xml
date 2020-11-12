@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [StartTests]">
+  <test name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="Tests.DemoQATests">
+        <methods>
+          <include name="Test1"/>
+          <include name="afterSuite"/>
+          <include name="beforeMethod"/>
+          <include name="Test2"/>
+        </methods>
+      </class> <!-- Tests.DemoQATests -->
+      <class name="Tests.CheeseTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="Test3"/>
+        </methods>
+      </class> <!-- Tests.CheeseTest -->
+      <class name="Tests.OrangeHrmSiteTest">
+        <methods>
+          <include name="TestingCandidates"/>
+          <include name="afterSuite"/>
+          <include name="beforeSuite"/>
+          <include name="TestLogin"/>
+          <include name="TestingCandidates2"/>
+        </methods>
+      </class> <!-- Tests.OrangeHrmSiteTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [StartTests] -->

@@ -1,0 +1,11 @@
+<suite name="StartTests"  verbose = "1" thread-count = "1" >
+	<test name="Test">
+		<classes >
+			<class name="Tests.OrangeHrmSiteTest"/>
+			
+		
+			
+		</classes>
+	
+	</test>
+</suite>

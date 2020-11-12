@@ -1,0 +1,32 @@
+package Pages;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+
+public class CheesePage extends BasePage {
+	
+	public CheesePage(WebDriver driver) {
+		super();
+		BasePage.driver = driver;
+		PageFactory.initElements(driver, this); 
+	}
+	
+	//Locator
+	@FindBy(id = "result-stats")
+    public WebElement numberOfGoogleResults;
+	 	
+	//Method: from string number return number
+	public int getNumberOfResults() {
+        String string = numberOfGoogleResults.getText();
+        String[] arr = string.split(" ");
+        String r = arr[1].replace(".", "");
+        int parsedNumWeGot = Integer.parseInt(r.trim());
+        return parsedNumWeGot;
+
+    }
+	
+	
+}

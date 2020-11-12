@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="StartTests" duration-ms="14960" started-at="2020-11-11T14:12:04Z" finished-at="2020-11-11T14:12:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14960" started-at="2020-11-11T14:12:04Z" finished-at="2020-11-11T14:12:19Z">
+      <class name="Tests.OrangeHrmSiteTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Tests.OrangeHrmSiteTest@66d2e7d9]" name="beforeSuite" is-config="true" duration-ms="1907" started-at="2020-11-11T14:12:02Z" finished-at="2020-11-11T14:12:04Z">
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Tests.OrangeHrmSiteTest@66d2e7d9]" name="Login" duration-ms="5429" started-at="2020-11-11T14:12:04Z" finished-at="2020-11-11T14:12:09Z">
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="AddingCandidates()[pri:0, instance:Tests.OrangeHrmSiteTest@66d2e7d9]" name="AddingCandidates" duration-ms="6581" started-at="2020-11-11T14:12:09Z" depends-on-methods="Tests.OrangeHrmSiteTest.Login" finished-at="2020-11-11T14:12:16Z">
+        </test-method> <!-- AddingCandidates -->
+        <test-method status="PASS" signature="DeleteCandidateAndLogOut()[pri:0, instance:Tests.OrangeHrmSiteTest@66d2e7d9]" name="DeleteCandidateAndLogOut" duration-ms="2928" started-at="2020-11-11T14:12:16Z" depends-on-methods="Tests.OrangeHrmSiteTest.AddingCandidates" finished-at="2020-11-11T14:12:19Z">
+        </test-method> <!-- DeleteCandidateAndLogOut -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Tests.OrangeHrmSiteTest@66d2e7d9]" name="afterSuite" is-config="true" duration-ms="102" started-at="2020-11-11T14:12:19Z" finished-at="2020-11-11T14:12:19Z">
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Tests.OrangeHrmSiteTest -->
+    </test> <!-- Test -->
+  </suite> <!-- StartTests -->
+</testng-results>

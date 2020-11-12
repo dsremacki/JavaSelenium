@@ -1,0 +1,48 @@
+package Tests;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
+
+import Pages.CandidatePage;
+import Pages.HomePage;
+import Pages.OrangeHrmLoginPage;
+
+
+
+
+
+public class BaseTest {
+	public OrangeHrmLoginPage orangeHrmLoginPage;
+	public HomePage homePage;
+	public CandidatePage candidatePage;
+	public  WebDriver driver;
+	
+	
+	public static int old;
+	public static int current;
+	public static int currentNewCurr;
+	
+	@BeforeSuite
+	  public void beforeSuite() {
+		  System.setProperty("webdriver.chrome.driver", "chromedriver");
+		  driver = new ChromeDriver();
+		  orangeHrmLoginPage = new OrangeHrmLoginPage(driver);
+		  homePage = new HomePage(driver);
+		  candidatePage = new CandidatePage(driver);
+		  driver.manage().timeouts().pageLoadTimeout(15, TimeUnit.SECONDS);
+		  
+		  driver.manage().deleteAllCookies();
+		  driver.manage().window().maximize();
+		  
+	  }
+	@AfterSuite
+		public void afterSuite(){
+		driver.quit();
+	}
+	
+	
+}

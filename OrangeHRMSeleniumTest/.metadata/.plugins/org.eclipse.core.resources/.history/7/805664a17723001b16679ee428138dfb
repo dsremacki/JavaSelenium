@@ -1,0 +1,43 @@
+package Tests;
+
+import static org.testng.Assert.assertEquals;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import BaseTests.BaseTest;
+
+public class DemoQATests extends BaseTest {
+	
+	
+	
+  @Test(priority = 1)
+  public void Test1() throws IOException {
+	  driver.get("http://www.google.com");
+	  googlePage.fillGoogle("demoqa.com");
+	  googlePage.clickFirstResult();
+	  demoQAPage.clickInteractions();
+	  demoQAPage.clickDroppable();
+	  demoQAPage.dragDrop();
+	  demoQAPage.waitDropTextVisible();
+	  assertEquals(demoQAPage.droppableText.getText(), "Dropped!");
+	  demoQAPage.takeScreenshot("skreenshotsite");
+	  
+  }
+  
+  @Test(dependsOnMethods = {"Test1"}, priority = 1)
+  public void Test2() throws IOException, InterruptedException {
+	  demoQAPage.navigateToWidgetToolTips();
+	  demoQAPage.waitHoverElVisible();
+	  demoQAPage.hoverElement();	  
+	  Thread.sleep(1500);
+	  System.out.println(demoQAPage.hoverText.getText());
+	  assertEquals(demoQAPage.hoverText.getText(), "You hovered over the Button");
+	  demoQAPage.takeScreenshot("skreenshotsite2");
+	  
+  }
+  
+
+  
+}

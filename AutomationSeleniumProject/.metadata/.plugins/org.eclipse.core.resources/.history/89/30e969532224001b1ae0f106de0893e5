@@ -1,0 +1,12 @@
+<suite name="StartTests"  verbose = "1" thread-count = "1" parallel="false">
+	<test name="Test" parallel="false">
+		<classes parallel="false">
+			<class name="Tests.CheeseTest"/>
+			<class name="Tests.OrangeHrmSiteTest"/>
+			<class name="Tests.DemoQATests"/>
+		
+			
+		</classes>
+	
+	</test>
+</suite>

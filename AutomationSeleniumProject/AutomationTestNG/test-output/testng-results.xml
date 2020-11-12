@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8299" started-at="2020-11-11T14:40:16Z" finished-at="2020-11-11T14:40:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8299" started-at="2020-11-11T14:40:16Z" finished-at="2020-11-11T14:40:24Z">
+      <class name="Tests.DemoQATests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Tests.DemoQATests@6a2bcfcb]" name="beforeSuite" is-config="true" duration-ms="1899" started-at="2020-11-11T14:40:14Z" finished-at="2020-11-11T14:40:16Z">
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="TestDragAndDrop()[pri:0, instance:Tests.DemoQATests@6a2bcfcb]" name="TestDragAndDrop" duration-ms="5477" started-at="2020-11-11T14:40:16Z" finished-at="2020-11-11T14:40:21Z">
+        </test-method> <!-- TestDragAndDrop -->
+        <test-method status="PASS" signature="TestHoverElementOnToolTips()[pri:0, instance:Tests.DemoQATests@6a2bcfcb]" name="TestHoverElementOnToolTips" duration-ms="2794" started-at="2020-11-11T14:40:21Z" depends-on-methods="Tests.DemoQATests.TestDragAndDrop" finished-at="2020-11-11T14:40:24Z">
+        </test-method> <!-- TestHoverElementOnToolTips -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Tests.DemoQATests@6a2bcfcb]" name="afterSuite" is-config="true" duration-ms="74" started-at="2020-11-11T14:40:24Z" finished-at="2020-11-11T14:40:24Z">
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Tests.DemoQATests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

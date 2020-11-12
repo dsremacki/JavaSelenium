@@ -1,0 +1,96 @@
+2020-11-11 13:58:51,317 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: AutomationSeleniumAssigment:AutomationTestNG:0.0.1-SNAPSHOT @ /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/pom.xml.
+2020-11-11 13:58:52,648 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationTestNG/src/main/java
+2020-11-11 13:58:52,651 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /AutomationTestNG/src/test/java
+2020-11-11 13:58:53,001 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2020-11-11 13:58:56,455 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 13:58:56,457 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 13:58:56,459 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 13:58:56,459 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:12:43,682 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:12:43,683 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:12:43,685 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:12:43,685 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:12:56,559 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:12:56,559 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:12:56,562 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:12:56,563 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:13:17,352 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:13:17,352 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:13:17,354 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:13:17,354 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:13:22,603 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:13:22,604 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:13:22,606 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:13:22,606 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:13:33,698 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:13:33,698 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:13:33,699 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:13:33,699 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:14:31,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:14:31,477 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:14:31,478 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:14:31,478 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:14:34,232 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:14:34,233 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:14:34,270 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:14:34,270 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:17:19,577 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:17:19,577 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:17:19,579 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:17:19,586 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:17:59,962 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:17:59,963 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:17:59,964 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:17:59,964 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:18:46,376 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:18:46,376 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:18:46,380 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:18:46,381 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:18:57,177 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:18:57,177 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:18:57,179 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:18:57,180 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:30:15,184 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:30:15,185 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:30:15,200 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:30:15,201 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:30:57,701 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:30:57,701 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:30:57,702 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:30:57,702 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:31:28,803 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:31:28,803 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:31:28,805 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:31:28,806 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:32:21,334 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:32:21,335 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:32:21,338 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:32:21,339 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:34:37,441 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:34:37,442 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:34:37,446 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:34:37,446 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:36:01,503 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:36:01,504 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:36:01,506 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:36:01,506 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:38:45,156 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:38:45,157 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:38:45,158 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:38:45,158 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:39:07,226 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:39:07,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:39:07,229 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:39:07,230 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:39:25,027 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:39:25,027 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:39:25,029 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:39:25,029 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:40:07,321 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:40:07,321 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:40:07,324 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:40:07,325 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
+2020-11-11 14:40:37,387 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:40:37,387 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/main/resources
+2020-11-11 14:40:37,389 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-11 14:40:37,389 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/tester/Desktop/123432/Automation-ManualTesting/AutomationSeleniumProject/AutomationTestNG/src/test/resources
