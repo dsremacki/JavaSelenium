@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28013" started-at="2020-12-24T14:41:18Z" finished-at="2020-12-24T14:41:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28013" started-at="2020-12-24T14:41:18Z" finished-at="2020-12-24T14:41:46Z">
+      <class name="Tests.Tests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:Tests.Tests@685cb137]" name="beforeSuite" is-config="true" duration-ms="2569" started-at="2020-12-24T14:41:16Z" finished-at="2020-12-24T14:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Tests.Tests@685cb137]" name="login" duration-ms="1927" started-at="2020-12-24T14:41:18Z" finished-at="2020-12-24T14:41:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createStudents()[pri:0, instance:Tests.Tests@685cb137]" name="createStudents" duration-ms="5062" started-at="2020-12-24T14:41:20Z" depends-on-methods="Tests.Tests.login" finished-at="2020-12-24T14:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createStudents -->
+        <test-method status="PASS" signature="editStudent()[pri:0, instance:Tests.Tests@685cb137]" name="editStudent" duration-ms="1228" started-at="2020-12-24T14:41:25Z" depends-on-methods="Tests.Tests.createStudents" finished-at="2020-12-24T14:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editStudent -->
+        <test-method status="PASS" signature="deleteStudents()[pri:0, instance:Tests.Tests@685cb137]" name="deleteStudents" duration-ms="3974" started-at="2020-12-24T14:41:27Z" depends-on-methods="Tests.Tests.editStudent" finished-at="2020-12-24T14:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteStudents -->
+        <test-method status="PASS" signature="addTeacher()[pri:0, instance:Tests.Tests@685cb137]" name="addTeacher" duration-ms="2741" started-at="2020-12-24T14:41:31Z" depends-on-methods="Tests.Tests.deleteStudents, Tests.Tests.login" finished-at="2020-12-24T14:41:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTeacher -->
+        <test-method status="PASS" signature="addStudents()[pri:0, instance:Tests.Tests@685cb137]" name="addStudents" duration-ms="4157" started-at="2020-12-24T14:41:33Z" depends-on-methods="Tests.Tests.addTeacher" finished-at="2020-12-24T14:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addStudents -->
+        <test-method status="PASS" signature="addSubject()[pri:0, instance:Tests.Tests@685cb137]" name="addSubject" duration-ms="2062" started-at="2020-12-24T14:41:38Z" depends-on-methods="Tests.Tests.addStudents" finished-at="2020-12-24T14:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSubject -->
+        <test-method status="PASS" signature="addExamPeriod()[pri:0, instance:Tests.Tests@685cb137]" name="addExamPeriod" duration-ms="3334" started-at="2020-12-24T14:41:40Z" depends-on-methods="Tests.Tests.addSubject" finished-at="2020-12-24T14:41:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addExamPeriod -->
+        <test-method status="PASS" signature="addExamRegistration()[pri:0, instance:Tests.Tests@685cb137]" name="addExamRegistration" duration-ms="3474" started-at="2020-12-24T14:41:43Z" depends-on-methods="Tests.Tests.addExamPeriod" finished-at="2020-12-24T14:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addExamRegistration -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Tests.Tests@685cb137]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-12-24T14:41:46Z" finished-at="2020-12-24T14:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

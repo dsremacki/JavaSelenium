@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+	<suite name="RegisterAccount">
+		<test name="Registration account">
+			<classes>
+				<class name="ValidCredentialTest" />
+				<class name="ValidPassword50CharTest" />
+				<class name="NoDataTest" />
+				<class name="ExistEmailTest" />
+				<class name="ExistUsernameTest" />
+				<class name="PasswordToLongTest" />
+				<class name="PasswordToShortTest" />
+			
+			</classes>
+		</test>
+	</suite>
